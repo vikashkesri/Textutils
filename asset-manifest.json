@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Textset-react/static/css/main.81d253a6.css",
+    "main.js": "/Textset-react/static/js/main.6ffce2f9.js",
+    "index.html": "/Textset-react/index.html",
+    "main.81d253a6.css.map": "/Textset-react/static/css/main.81d253a6.css.map",
+    "main.6ffce2f9.js.map": "/Textset-react/static/js/main.6ffce2f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d253a6.css",
+    "static/js/main.6ffce2f9.js"
+  ]
+}
